@@ -15,6 +15,7 @@ namespace ExcelReaderTester
 
 
 			test.Load("C:\\Users\\micha\\Dropbox\\My PC (DESKTOP-QR8R89P)\\Desktop\\testfile.xlsx");
+			Console.ReadKey();
 		}
 	}
 }
